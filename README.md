@@ -2,9 +2,9 @@
 Basic vue.js starter file
 
 To use: 
-- Clone repo: 
-
 ````
+cd vue.js-starter
 npm install
+npm run dev
 
 ````
